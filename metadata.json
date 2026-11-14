@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Portfolio Analyzer",
+  "description": "Analyze GitHub portfolios and generate beautiful, professional developer resumes using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
